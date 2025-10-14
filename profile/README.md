@@ -17,3 +17,7 @@
 <a href="https://github.com/wootrevived/industrialforegoingaddon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wootrevived&repo=industrialforegoingaddon&bg_color=00000000&text_color=7f7f7f&title_color=8cb2ff" />
 </a>
+
+<a href="https://github.com/wootrevived/botaniaaddon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wootrevived&repo=botaniaaddon&bg_color=00000000&text_color=7f7f7f&title_color=8cb2ff" />
+</a>
